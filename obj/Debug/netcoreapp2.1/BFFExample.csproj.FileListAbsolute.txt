@@ -1,0 +1,14 @@
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\bin\Debug\netcoreapp2.1\BFFExample.deps.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\bin\Debug\netcoreapp2.1\BFFExample.runtimeconfig.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\bin\Debug\netcoreapp2.1\BFFExample.runtimeconfig.dev.json
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\bin\Debug\netcoreapp2.1\BFFExample.dll
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\bin\Debug\netcoreapp2.1\BFFExample.pdb
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.csprojAssemblyReference.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.csproj.CoreCompileInputs.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.RazorAssemblyInfo.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.RazorAssemblyInfo.cs
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.AssemblyInfoInputs.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.AssemblyInfo.cs
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.RazorTargetAssemblyInfo.cache
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.dll
+C:\Users\matias.araya.cohen\Documents\TERNIUM\Repos\BFFExample\BFFExample\obj\Debug\netcoreapp2.1\BFFExample.pdb
